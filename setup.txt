@@ -1,0 +1,15 @@
+## How to activate env using command prompt 
+
+step 1 - cd firenv
+step 2 - cd Scripts
+step 3 - cd .\activate.bat
+Step 4 - cd C:\Users\uniab\yolov8_final_latest
+
+## pip freeze - to see all modules inside the virtual environment
+
+## to install all modules/ dependencies  - pip install -r requirements.txt
+
+## To run streamlit file use this command - streamlit run app.py
+
+## best.py - best weight of yolov8s model that is pretrained on fire and smoke objects
+
